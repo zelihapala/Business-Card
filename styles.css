@@ -1,0 +1,27 @@
+body{
+    
+   font-family: papyrus;
+   font-style: italic;
+   font-size: 18px;
+   font-weight: bolder;
+   
+
+}
+
+.avatar{
+    width: 150px;
+    height: 250px;
+}
+.card{
+    
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    width: 400px;
+    margin:20px auto;
+    background-color: #6885ac;
+    color: white;
+    border-bottom: solid 6px rgb(194, 145, 226);
+    text-align: center;
+}
+
